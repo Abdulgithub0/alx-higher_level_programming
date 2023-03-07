@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "lists.h"
 
 /**
@@ -12,6 +10,8 @@ int check_cycle(listint_t *list)
 {
 	listint_t *traveler;
 
+	if (list == NULL)
+		return (0);
 	traveler = list->next;
 	while (traveler != NULL)
 	{
