@@ -12,10 +12,14 @@ listint_t *insert_node(listint_t **head, int number)
 	listint_t *new_node, *traveler, *prev_node;
 
 	if (head == NULL)
-		return (NULL);
 	new_node = malloc(sizeof(listint_t));
 	if (new_node == NULL)
 		return (NULL);
+	if (*head == NULL)
+	{
+		new_node->next = NULL;
+		*head = new_node;
+	}
 	new_node->n = number;
 	traveler = *head;
 	prev_node = *head;
