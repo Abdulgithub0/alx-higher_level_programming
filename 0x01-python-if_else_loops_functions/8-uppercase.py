@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-def uppercase(string):
-    for letters in string:
+def uppercase(str):
+    for letters in str:
         let_char = letters
         if letters >= 'a' and letters <= 'z':
             let_char = chr(ord(letters) - 32)
