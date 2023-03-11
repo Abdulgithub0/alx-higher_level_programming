@@ -4,13 +4,14 @@
  *
  */
 
-int main()
+int main(int argc, char **argv)
 {
-	char *best = "Best";
-	char *school = "Best School is Alx";
+	char *best = argv[1];
 	char check;
+
+	if (argv[1] == NULL || argv[2] != NULL){
+			printf("Enter a single string argument\n"); return 1;}
 	int len1 = strlen(best);
-	printf("%s\n%s\n", best, school);
 	for(int i = 0; i < len1; i++)
 	{
 		check = best[i];
@@ -19,14 +20,7 @@ int main()
 		printf("%c", check);
 	}
 	printf("\n");
-	for (int i = 0; i < strlen(school); i++)
-	{
-		check = school[i];
-		if (check >= 'a' && school[i] <= 'z')
-			check -= 32;
-		printf("%c", check);
-	}
-	printf("\n");
+	return 0;
 }
 
 
