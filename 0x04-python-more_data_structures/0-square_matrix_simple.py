@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
-    outer = len(matrix)
-    new = [[]]
-    for element in matrix:
-        #inner = len(matrix[element])
-        for i in matrix[element]:
-            new.append(i * i)
-    return new
+    length = len(matrix)
+    inner_list = []
+    outer_list = []
+    for i in range(length):
+        inner_list = list(map(lambda x: x * x, matrix[i]))
+        outer_list.append(inner_list)
+    return outer_list
