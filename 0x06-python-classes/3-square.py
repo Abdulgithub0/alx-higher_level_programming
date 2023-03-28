@@ -20,7 +20,8 @@ class Square:
 
     def area(self):
         """
-           function area is a public method of class Square that compute the area of the square.
+           function area is a public method of class \
+           Square that compute the area of the square.
         """
 
         return (self.__size * self. __size)
