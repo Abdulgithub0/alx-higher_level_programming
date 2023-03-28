@@ -6,7 +6,7 @@
 
 class Square:
     """defining Class square body."""
-    def __init__(self, __size=0):
+    def __init__(self, size=0):
         """
             Args:
                  __size: unaccessible/private field of the init method
@@ -17,14 +17,6 @@ class Square:
             self.__size = __size
         else:
             raise TypeError("size must be an integer")
-
-    @property
-    def size(self):
-        """
-            getter method  that return a copy of
-            value of  private attribute __size.
-        """
-        return (self.__size)
 
     @size.setter
     def size(self, value):
@@ -38,9 +30,18 @@ class Square:
         else:
             raise TypeError("size must be an integer")
 
+    @property
+    def size(self):
+        """
+            getter method  that return a copy of
+            value of  private attribute __size.
+        """
+        return (self.__size)
+
     def area(self):
         """
             function area is a public method of class \
             Square that compute the area of the square.
         """
         return (self.__size * self. __size)
+
