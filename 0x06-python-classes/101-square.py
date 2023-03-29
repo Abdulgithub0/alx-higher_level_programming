@@ -83,4 +83,3 @@ class Square:
                 print((' ' * self.__position[0]) + ('#' * self.__size))
                 if (j == self.__size - 1):
                     return ' ' * self.__position[0] + '#' * self.__size
-
