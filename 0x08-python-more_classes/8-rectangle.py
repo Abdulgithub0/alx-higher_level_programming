@@ -91,31 +91,6 @@ class Rectangle:
         Rectangle.number_of_instances -= 1
         print("Bye rectangle...")
 
-    def __eq__(self):
-        """ check for equal sign"""
-
-        return (self)
-
-    def __ge__(self):
-        """check for >="""
-
-        return (self)
-
-    def __le__(self):
-        """check for <="""
-
-        return (self)
-
-    def __gt__(self):
-        """check for >"""
-
-        return (self)
-
-    def __lt__(self):
-        """check for <"""
-
-        return (self)
-
     @staticmethod
     def bigger_or_equal(rect_1, rect_2):
         """check for equality"""
