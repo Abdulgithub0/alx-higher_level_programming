@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-class Rectangle:
+"""definition for class Rectangle."""
 
+
+class Rectangle:
+    """ Class Rectangle data and method attributes."""
     def __init__(self, width=0, height=0):
         """ initialized the class instances with parameters
 
