@@ -1,0 +1,55 @@
+===============================
+ How to Use matrix_divided
+===============================
+
+This library is very simple, since it only has one function called
+``matrix_divided``.
+
+Numbers
+=======
+
+``matrix_divided()`` returns the addition of its arguments.
+
+::
+
+    >>> m_div = __import__('2-matrix_divided').matrix_divided
+    >>> first = [[1, 2, 3], [4, 5, 6], [6, 7, 8]]
+    >>> m_div(first, 2)
+    [[0.5, 1.0, 1.5], [2.0, 2.5, 3.0], [3.0, 3.5, 4.0]]
+
+It also works with floating-point values by casting it to int.
+
+::
+
+    >>> second = [[1.1, 2.3, 3.4], [4.5, 5.6, 6.7], [6.8, 7.9, 8.0]]
+    >>> m_div(second, 3)
+    [[0.37, 0.77, 1.13], [1.5, 1.87, 2.23], [2.27, 2.63, 2.67]]
+
+Non-Numbers
+============
+
+''m_div'' raise exception when encounter other objects aside
+integer and float instances only.
+
+::
+
+    >>> third = [[1, 2, 3], [4, 6], [6, 7, 8]]
+    >>> m_div(third, 4)
+    Traceback (most recent call last):
+    TypeError: Each row of the matrix must have the same size
+
+    >>> fourth = [[1, 2, "string"], [4, 6, 7], [6, 7, 8]] 
+    >>> m_div(fourth, 1)
+    Traceback (most recent call last):
+    TypeError: matrix must be a matrix (list of lists) of integers/floats
+    
+    >>> firth = [[1, 2, "string"], [4, 6, 7], [6, 8]]
+    >>> m_div(firth, 5)
+    Traceback (most recent call last):
+    TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+
+    >>> sixth = [[0.37, 0.77, 1.13], [1.5, 1.87, 2.23], [2.27, 2.63, 2.67]]	
+    >>> m_div(sixth, 0)
+    Traceback (most recent call last):
+    ZeroDivisionError: division by zero

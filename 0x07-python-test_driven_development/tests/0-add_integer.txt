@@ -42,3 +42,7 @@ integer and float instances only.
     >>> add_integers("int", "string")
     Traceback (most recent call last):
     TypeError: a must be an integer
+	
+    >>> add_integers()
+    Traceback (most recent call last):
+    TypeError: add_integer() missing 1 required positional argument: 'a'
