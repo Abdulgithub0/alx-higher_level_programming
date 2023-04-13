@@ -10,6 +10,7 @@ class Student:
         self.age = age
 
     def to_json(self, attrs=None):
+        """return dict representation for the class"""
         if (type(attrs) == list):
             dic = {}
             d = self.__dict__
@@ -21,6 +22,10 @@ class Student:
             return self.__dict__
 
     def reload_from_json(self, json):
+        """replace stduent
+        Args:
+            json: dict obj to be used in replacement of cls attr
+        """
         dic = self.__dict__
         for key, val in json.items():
             for k, v in dic.items():
