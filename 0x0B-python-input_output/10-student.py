@@ -13,9 +13,8 @@ class Student:
             dic = {}
             d = self.__dict__
             for keys, val in d.items():
-                for i in attrs:
-                    if keys == i:
-                        dic[keys] = val
+                if keys in attrs:
+                    dic[keys] = val
             return dic
         else:
             return self.__dict__
