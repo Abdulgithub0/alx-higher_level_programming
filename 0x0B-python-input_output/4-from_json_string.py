@@ -3,10 +3,10 @@
 import json
 
 
-def to_json_string(my_obj):
+def from_json_string(my_str):
     """return json representaion of my_obj
 
     Args:
-        my_obj: string object
+        my_str: json object
     """
-    return (json.dumps(my_obj))
+    return (json.loads(my_str))
