@@ -6,12 +6,12 @@ class MyInt(int):
     """implementing MyInt class"""
 
     def __eq__(self, other):
-        if (super().__eq__(other) == True):
+        if (super().__eq__(other)):
             return False
         else:
             return True
 
     def __ne__(self, other):
-        if (super().__ne__(other) == True):
+        if (super().__ne__(other)):
             return False
         return True
