@@ -15,12 +15,12 @@ Test for integer_validator
 	>>> test2.integer_validator('Abdul', 100)
 	>>> test2.integer_validator('Abdul', 'age')
 	Traceback (most recent call last):
-	TypeError: <name> must be an integer
+	TypeError: Abdul must be an integer
 
 
 	>>> test2.integer_validator('Abdul', 0)
 	Traceback (most recent call last):
-	ValueError: <name> must be greater than 0
+	ValueError: Abdul must be greater than 0
 
 
 	>>> test2.integer_validator(1, 3)
@@ -31,7 +31,7 @@ Test for empty argument
 ::
 	>>> test2.integer_validator('name', 1.3)
 	Traceback (most recent call last):
-	TypeError: <name> must be an integer
+	TypeError: name must be an integer
 
 
 	>>> test2.integer_validator('name')
