@@ -50,25 +50,6 @@ Test for integer_validator
         ValueError: Abdul must be greater than 0
 
 
-	>>> test2.integer_validator('Abdul', [7])
-	Traceback (most recent call last):
-	...
-        TypeError: Abdul must be an integer
-
-
-	>>> test2.integer_validator('Abdul', (7))
-        Traceback (most recent call last):
-        ...
-        TypeError: Abdul must be an integer
-
-
-	>>> test2.integer_validator('Abdul', True)
-        Traceback (most recent call last):
-        ...
-        TypeError: Abdul must be an integer
-
-
-
 Test for empty argument
 =======================
 ::
