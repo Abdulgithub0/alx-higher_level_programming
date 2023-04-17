@@ -84,7 +84,7 @@ class Rectangle(Base):
             for i in range(len(args)):
                 match i:
                     case 0:
-                            self.id = args[i]
+                        self.id = args[i]
                     case 1:
                         self.width = args[i]
                     case 2:
@@ -108,4 +108,8 @@ class Rectangle(Base):
                         self.y = vals
 
     def to_dictionary(self):
-       return {'width': self.width, 'height': self.height, 'id': self.id, 'x': self.x, 'y': self.y}
+        return {'width': self.width,
+                'height': self.height,
+                'id': self.id,
+                'x': self.x,
+                'y': self.y}
