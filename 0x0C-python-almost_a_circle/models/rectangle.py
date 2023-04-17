@@ -80,13 +80,10 @@ class Rectangle(Base):
                                                        self.__height)
 
     def update(self, *args, **kwargs):
-        if (len(args) != 0 and args[0]):
+        if (len(args) != 0 and args):
             for i in range(len(args)):
                 match i:
                     case 0:
-                        if (args[i] == None):
-                            self.__init__(self.width, self.height, self.x, self.y)
-                        else:
                             self.id = args[i]
                     case 1:
                         self.width = args[i]
@@ -109,3 +106,6 @@ class Rectangle(Base):
                         self.x = vals
                     case 'y':
                         self.y = vals
+
+    def to_dictionary(self):
+       return {'width': self.width, 'height': self.height, 'id': self.id, 'x': self.x, 'y': self.y}
