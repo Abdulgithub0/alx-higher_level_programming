@@ -3,7 +3,7 @@ import json
 """Implementing Base class"""
 
 
-class Base():
+class Base:
     """definition for Base class
 
     __nb_objects: private class instance
