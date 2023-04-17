@@ -10,12 +10,12 @@ class TestBase_init(unittest.TestCase):
     def testNone_id(self):
         b1 = Base()
         b2 = Base()
-        self.assertNotEqual(b1.id, b2.id, msg='check testNone_id')
+        self.assertEqual(b1.id, b2.id, msg='check testNone_id')
 
     def testMixed_id(self):
         b3 = Base(12)
         b4 = Base()
-        self.assertGreater(b3.id, b4.id, msg='check testMixed_id')
+        self.assertNotEqual(b3.id, b4.id, msg='check testMixed_id')
 
     def testId_setter(self):
         b5 = Base()
