@@ -1,18 +1,23 @@
 #!/usr/bin/python3
 import json
 
+
 class Base:
     """
-    This is the Base class, which provides a template for other classes to inherit from.
+    This is the Base class, which provides a
+    template for other classes to inherit from.
 
     Attributes:
-        __nb_objects (int): A private class instance variable that keeps track of the number of Base objects created.
+        __nb_objects (int): A private class instance
+        variable that keeps track of the number of Base objects created.
 
     Methods:
         __init__(self, id=None):
-            Initializes a new instance of the Base class with an optional id parameter.
+            Initializes a new instance of the
+            Base class with an optional id parameter.
             If id is not provided, the id is set to None.
-            Otherwise, a new id is assigned to the object using the private __nb_objects counter.
+            Otherwise, a new id is assigned to the
+            object using the private __nb_objects counter.
         to_json_string(list_dictionaries):
             Returns a JSON string representation of a list of dictionaries.
 
@@ -22,12 +27,15 @@ class Base:
 
     def __init__(self, id=None):
         """
-        Initializes a new instance of the Base class with an optional id parameter.
+        Initializes a new instance of the
+        Base class with an optional id parameter.
         If id is not provided, the id is set to None.
-        Otherwise, a new id is assigned to the object using the private __nb_objects counter.
+        Otherwise, a new id is assigned to the
+        object using the private __nb_objects counter.
 
         Args:
-            id (int): An optional parameter that represents the id of the new instance.
+            id (int): An optional parameter that
+                      represents the id of the new instance.
         """
         if not id:
             self.id = id
@@ -41,12 +49,13 @@ class Base:
         Returns a JSON string representation of a list of dictionaries.
 
         Args:
-            list_dictionaries (list): A list of dictionaries to be converted to a JSON string.
+            list_dictionaries (list): A list of
+            dictionaries to be converted to a JSON string.
 
         Returns:
-            str: A JSON string representation of the list of dictionaries. If the list is empty, returns '[]'.
+            str: A JSON string representation of the
+            list of dictionaries. If the list is empty, returns '[]'.
         """
         if list_dictionaries and len(list_dictionaries) != 0:
             return json.dumps(list_dictionaries)
         return "[]"
-
