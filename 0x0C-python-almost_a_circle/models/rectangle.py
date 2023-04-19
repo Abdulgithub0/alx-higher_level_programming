@@ -10,8 +10,8 @@ from models.base import Base
 
 
 class Rectangle(Base):
-    """A class representing a rectangle.
-    Constructs a new Rectangle object.
+    """
+    A class representing a rectangle.
 
     Parameters:
         width (int): The width of the rectangle.
@@ -117,18 +117,6 @@ class Rectangle(Base):
     def area(self):
         """return the area of the rectangle"""
         return (self.__height * self.__width)
-
-    def display(self):
-        """print out the rectangle using paramters and cordinates"""
-        if (self.__width == 0 or self.__height == 0):
-            print('')
-            return
-        for y in range(self.__y):
-            print("")
-        for j in range(self.height):
-            print(" " * self.x, end='')
-            print('#' * self.width, end='')
-            print()
 
     def __str__(self):
         """response to print() or str() calls on any instances of class"""
