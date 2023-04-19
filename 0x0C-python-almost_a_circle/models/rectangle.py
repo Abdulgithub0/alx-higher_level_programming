@@ -121,7 +121,7 @@ class Rectangle(Base):
         return "[Rectangle] ({}) {}/{} - {}/{}".format(self.id, self.__x,
                                                        self.__y, self.__width,
                                                        self.__height)
-
+    """
     def update(self, *args, **kwargs):
         """an updater for the class parameter value"""
         if (len(args) != 0 and args):
@@ -150,7 +150,7 @@ class Rectangle(Base):
                         self.x = vals
                     case 'y':
                         self.y = vals
-
+    """
     def to_dictionary(self):
         """return a dictionary of attributes for the class"""
         return {'width': self.width,
