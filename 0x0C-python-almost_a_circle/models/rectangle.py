@@ -123,7 +123,7 @@ class Rectangle(Base):
                                                        self.__height)
     """
     def update(self, *args, **kwargs):
-        """an updater for the class parameter value"""
+        an updater for the class parameter value
         if (len(args) != 0 and args):
             for i in range(len(args)):
                 match i:
