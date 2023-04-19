@@ -44,7 +44,7 @@ class Base:
             id (int): An optional parameter that
                       represents the id of the new instance.
         """
-        if not id:
+        if id is not None:
             self.id = id
         else:
             Base.__nb_objects += 1
