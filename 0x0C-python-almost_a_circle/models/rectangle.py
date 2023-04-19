@@ -10,22 +10,22 @@ from models.base import Base
 
 
 class Rectangle(Base):
-    """A class representing a rectangle."""
-    def __init__(self, width, height, x=0, y=0, id=None):
-        """
-        Constructs a new Rectangle object.
+    """A class representing a rectangle.
+    Constructs a new Rectangle object.
 
-        Parameters:
+    Parameters:
         width (int): The width of the rectangle.
         height (int): The height of the rectangle.
         x (int): The x-coordinate of the top-left corner of the rectangle.
         y (int): The y-coordinate of the top-left corner of the rectangle.
         id (int): The ID of the rectangle.
 
-        Raises:
+    Raises:
         TypeError: If width, height, x, or y is not an integer.
         ValueError: If width, height, x, or y is less than or equal to 0.
-        """
+    """
+
+    def __init__(self, width, height, x=0, y=0, id=None):
         self.width = width
         self.height = height
         self.x = x
