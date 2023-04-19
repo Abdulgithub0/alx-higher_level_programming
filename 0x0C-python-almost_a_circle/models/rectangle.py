@@ -121,36 +121,34 @@ class Rectangle(Base):
         return "[Rectangle] ({}) {}/{} - {}/{}".format(self.id, self.__x,
                                                        self.__y, self.__width,
                                                        self.__height)
-    """
+
     def update(self, *args, **kwargs):
-        an updater for the class parameter value
+        """an updater for the class parameter value"""
         if (len(args) != 0 and args):
             for i in range(len(args)):
-                match i:
-                    case 0:
-                        self.id = args[i]
-                    case 1:
-                        self.width = args[i]
-                    case 2:
-                        self.height = args[i]
-                    case 3:
-                        self.x = args[i]
-                    case 4:
-                        self.y = args[i]
+                if (i == 0):
+                    self.id = args[i]
+                elif (i == 1):
+                    self.width = args[i]
+                elif(i == 2):
+                    self.height = args[i]
+                elif (i == 3):
+                    self.x = args[i]
+                elif (i == 4):
+                    self.y = args[i]
         else:
             for keys, vals in kwargs.items():
-                match keys:
-                    case 'width':
-                        self.width = vals
-                    case 'height':
-                        self.height = vals
-                    case 'id':
-                        self.id = vals
-                    case 'x':
-                        self.x = vals
-                    case 'y':
-                        self.y = vals
-    """
+                if (keys == 'width'):
+                    self.width = vals
+                elif (keys == 'height'):
+                    self.height = vals
+                elif (keys == 'id'):
+                    self.id = vals
+                elif (keys == 'x'):
+                    self.x = vals
+                elif (keys == 'y'):
+                    self.y = vals
+
     def to_dictionary(self):
         """return a dictionary of attributes for the class"""
         return {'width': self.width,
