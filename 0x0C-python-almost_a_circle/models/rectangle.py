@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 """
-    implementing class Rectangle that
-    inherit from a class called Base
+    implementing class Rectangle thatd Base
 """
 
 
@@ -12,8 +11,7 @@ from models.base import Base
 class Rectangle(Base):
     """
     A class representing a rectangle.
-
-    Parameters:
+    Args:
         width (int): The width of the rectangle.
         height (int): The height of the rectangle.
         x (int): The x-coordinate of the top-left corner of the rectangle.
