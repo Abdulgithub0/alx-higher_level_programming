@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+"""
+    implementing class Rectangle that
+    inherit from a class called Base
+"""
+
+
 from models.base import Base
 
 
