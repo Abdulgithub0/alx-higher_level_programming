@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+
+"""
+    implemented a class called Base that will serves
+    as a superclass for all classes inside Almost a circle package
+"""
+
+
 import json
 
 
