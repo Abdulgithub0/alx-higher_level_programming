@@ -58,26 +58,24 @@ class Square(Rectangle):
         """
         if (args and len(args) > 0):
             for i in range(len(args)):
-                match i:
-                    case 0:
-                        self.id = args[i]
-                    case 1:
-                        self.size = args[i]
-                    case 2:
-                        self.x = args[i]
-                    case 3:
-                        self.y = args[i]
+                if (i == 0):
+                    self.id = args[i]
+                elif (i == 1):
+                    self.size = args[i]
+                elif (i == 2):
+                    self.x = args[i]
+                elif (i == 3):
+                    self.y = args[i]
         else:
             for keys, vals in kwargs.items():
-                match keys:
-                    case 'id':
-                        self.id = vals
-                    case 'size':
-                        self.size = vals
-                    case 'x':
-                        self.x = vals
-                    case 'y':
-                        self.y = vals
+                if (keys == 'id'):
+                    self.id = vals
+                elif (keys == 'size'):
+                    self.size = vals
+                elif (keys == 'x'):
+                    self.x = vals
+                elif (keys == 'y'):
+                    self.y = vals
 
     def to_dictionary(self):
         """Get a dictionary representation of the Square instance"""
