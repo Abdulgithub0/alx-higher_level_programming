@@ -11,7 +11,7 @@ class TestBase_init(unittest.TestCase):
     def testNone_id(self):
         b1 = Base()
         b2 = Base()
-        self.assertEqual(b1.id, b2.id, msg='check testNone_id')
+        self.assertEqual(b1.id, b2.id - 1, msg='check testNone_id')
 
     def testMixed_id(self):
         b3 = Base(12)
