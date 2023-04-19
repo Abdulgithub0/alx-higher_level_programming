@@ -1,23 +1,35 @@
 #!/usr/bin/python3
 import json
-"""Implementing Base class"""
-
 
 class Base:
-    """definition for Base class
+    """
+    This is the Base class, which provides a template for other classes to inherit from.
 
-    __nb_objects: private class instance
+    Attributes:
+        __nb_objects (int): A private class instance variable that keeps track of the number of Base objects created.
+
+    Methods:
+        __init__(self, id=None):
+            Initializes a new instance of the Base class with an optional id parameter.
+            If id is not provided, the id is set to None.
+            Otherwise, a new id is assigned to the object using the private __nb_objects counter.
+        to_json_string(list_dictionaries):
+            Returns a JSON string representation of a list of dictionaries.
+
     """
 
     __nb_objects = 0
 
     def __init__(self, id=None):
-        """initiazed the Base class
+        """
+        Initializes a new instance of the Base class with an optional id parameter.
+        If id is not provided, the id is set to None.
+        Otherwise, a new id is assigned to the object using the private __nb_objects counter.
 
         Args:
-            id: of each instances of Base
+            id (int): An optional parameter that represents the id of the new instance.
         """
-        if not (id):
+        if not id:
             self.id = id
         else:
             Base.__nb_objects += 1
@@ -25,10 +37,16 @@ class Base:
 
     @staticmethod
     def to_json_string(list_dictionaries):
-        """return json string
-        Args:
-            list_dictionaries: list of dictionaries
         """
-        if (list_dictionaries and len(list_dictionaries) != 0):
+        Returns a JSON string representation of a list of dictionaries.
+
+        Args:
+            list_dictionaries (list): A list of dictionaries to be converted to a JSON string.
+
+        Returns:
+            str: A JSON string representation of the list of dictionaries. If the list is empty, returns '[]'.
+        """
+        if list_dictionaries and len(list_dictionaries) != 0:
             return json.dumps(list_dictionaries)
         return "[]"
+
