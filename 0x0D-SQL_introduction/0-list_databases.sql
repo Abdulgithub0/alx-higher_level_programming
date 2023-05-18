@@ -2,4 +2,3 @@
  -- The query command
 
  SHOW DATABASES;
-
