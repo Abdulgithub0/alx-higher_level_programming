@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 /*
- * a script that prints 'x' times “C is fun”, where 'x' is first cmd argument pass to the script
+ * a script that prints the addition of 2 integers
  */
 const arg1 = +(process.argv[2]);
 const arg2 = parseInt(process.argv[3]);
