@@ -4,4 +4,4 @@
  * value hoisting
  */
 
-myVar = 333;
+myVar = 333
