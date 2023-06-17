@@ -3,8 +3,8 @@
 /**
  * Class square Inherit from class Rectangle and mimic a square shape physical object.
  */
-const Square = require('./5-square');
-class Square extends Square {
+const square = require('./5-square');
+class Square extends square {
   constructor (size) {
     super(size, size);
     this.size = size;
@@ -12,7 +12,7 @@ class Square extends Square {
 
   // print out the rectangle shape using char 'C' or 'X' if parameter is undefined.
   charPrint (c) {
-    if (c) {
+    if (c && c === 'C') {
       for (let i = 0; i < this.size; i++) {
         console.log(c.repeat(this.size));
       }
