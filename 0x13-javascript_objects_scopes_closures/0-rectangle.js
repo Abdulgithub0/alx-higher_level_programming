@@ -5,6 +5,6 @@
  */
 
 class Rectangle {
-  /*pass*/
+  /* pass */
 }
 module.exports = Rectangle;
