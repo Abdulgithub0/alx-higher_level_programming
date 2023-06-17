@@ -12,7 +12,7 @@ class Square extends square {
 
   // print out the rectangle shape using char 'C' or 'X' if parameter is undefined.
   charPrint (c) {
-    if (c && c === 'C') {
+    if (c !== undefined) {
       for (let i = 0; i < this.size; i++) {
         console.log(c.repeat(this.size));
       }
