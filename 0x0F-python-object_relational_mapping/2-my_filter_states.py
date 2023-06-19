@@ -14,7 +14,7 @@ if "__main__" == __name__:
                            database=argv[3])
     navigate = use_db.cursor()
     arg = argv[4]
-    string = f"SELECT * FROM states WHERE name = '{arg}' ORDER BY id ASC"
+    string = "SELECT * FROM states WHERE name = '{}' ORDER BY id ASC".format(arg)
     navigate.execute(string)
     for i in navigate.fetchall():
         print(i)
