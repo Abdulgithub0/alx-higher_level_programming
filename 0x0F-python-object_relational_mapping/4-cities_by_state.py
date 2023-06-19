@@ -13,7 +13,7 @@ if "__main__" == __name__:
                            database=argv[3])
     navigate = use_db.cursor()
     navigate.execute("SELECT cities.id, cities.name, states.name FROM\
-                     cities c, states s WHERE c.stateid = s.id\
+                     cities c, states s WHERE c.state_id = s.id\
                      ORDER BY c.id ASC")
     for i in navigate.fetchall():
         print(i)
