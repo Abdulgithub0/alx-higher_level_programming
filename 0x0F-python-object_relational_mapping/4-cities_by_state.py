@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 """
- an ANTI-SQLI script that takes in an argument and displays all values in the
- states table of hbtn_0e_0_usa where name matches the argument.
+ a script that lists all cities from the database hbtn_0e_4_usa
 """
 
 
@@ -13,9 +12,9 @@ if "__main__" == __name__:
     use_db = mysql.connect(host="localhost", user=argv[1], passwd=argv[2],
                            database=argv[3])
     navigate = use_db.cursor()
-    arg = argv[4]
-    s = ("SELECT * FROM states WHERE name = %s ORDER BY id ASC")
-    navigate.execute(s, (arg,))
+    navigate.execute("SELECT cities.id, cities.name, states.mame FROM\
+                     cities c, states s WHERE c.stateid = s.id\
+                     ORDER BY c.id ASC")
     for i in navigate.fetchall():
         print(i)
     navigate.close()
