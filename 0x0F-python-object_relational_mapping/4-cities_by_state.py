@@ -12,8 +12,8 @@ if "__main__" == __name__:
     use_db = mysql.connect(host="localhost", user=argv[1], passwd=argv[2],
                            database=argv[3])
     navigate = use_db.cursor()
-    navigate.execute("SELECT cities.id, cities.name, states.name FROM\
-                     cities c, states s WHERE c.state_id = s.id\
+    navigate.execute("SELECT cities.id, cities.name, states.name FROM \
+                     cities c, states s WHERE c.state_id = s.id \
                      ORDER BY c.id ASC")
     for i in navigate.fetchall():
         print(i)
