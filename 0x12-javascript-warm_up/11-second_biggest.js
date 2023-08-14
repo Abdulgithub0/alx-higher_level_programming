@@ -4,7 +4,6 @@
  * a a script that searches the second biggest integer in the list of arguments.
  */
 const array = process.argv;
-let max, max2, element;
 secondMax(array);
 function secondMax (list) {
   if (list[2] === undefined) {
