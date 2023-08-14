@@ -6,10 +6,10 @@
 const array = process.argv;
 secondMax(array);
 function secondMax (list) {
-  if (list[2] === undefined) {
+  if (array.length === 2) {
     console.log('%d', 0);
-  } else if (list.length === 3) {
-    console.log('%d', 1);
+  } else if (array.length === 3) {
+    console.log('%d', 0);
   } else {
     console.log(secondBiggest(array.slice(2)));
   }
