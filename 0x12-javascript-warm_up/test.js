@@ -1,8 +1,17 @@
 #!/usr/bin/node
 
 const you = require('node:process').argv;
-// if (you.length >= 3) {
-const arr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
-for (let i = 0; i < 3; i++) {
-  console.log(arr[i]);
+const num = you[2];
+// console.log(factorial(num));
+function factorial (num) {
+  if (num === 1 || isNaN(num) || num === 0) {
+    return 1;
+  }
+  return (num * (factorial(num - 1)));
+}
+secondBiggest(you.slice(2, you.length));
+function secondBiggest (arr) {
+  // arr.map(parseInt);
+  arr.sort((a, b) => a - b);
+  console.log(arr[arr.length - 2]);
 }

@@ -12,17 +12,11 @@ function secondMax (list) {
   } else if (list.length === 3) {
     console.log('%d', 1);
   } else {
-    max = +(list[2]);
-    max2 = 0;
-    for (let i = 3; i < list.length; i++) {
-      element = +(list[i]);
-      if (max < element) {
-        max2 = max;
-        max = element;
-      } else if (element !== max && element > max2) {
-        max2 = element;
-      }
-    }
-    console.log(max2);
+    console.log(secondBiggest(array.slice(2)));
   }
+}
+function secondBiggest (arr) {
+  arr.map(parseInt);
+  arr.sort((a, b) => a - b);
+  return arr[arr.length - 2];
 }
