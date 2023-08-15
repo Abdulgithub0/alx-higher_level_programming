@@ -7,11 +7,9 @@
 class Rectangle {
   /* adding properties */
   constructor (w, h) {
-    if (w <= 0 || h <= 0 || w === undefined || h === undefined) {
-      /* created an empty rectangle object */
-    } else {
-      this.width = w;
-      this.height = h;
+    if (w >= 1 && h >= 1) {
+	    this.width = w;
+	    this.height = h;
     }
   }
 }
