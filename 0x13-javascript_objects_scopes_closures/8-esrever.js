@@ -5,11 +5,10 @@
  */
 
 exports.esrever = function (list) {
-  const arr = [];
-  let len = list.length - 1;
-  while (len >= 0) {
-    arr.push(list[len]);
-    len--;
+  for (let i = 0, j = list.length - 1; i < j; i++, j--) {
+    const temp = list[i];
+    list[i] = list[j];
+    list[j] = temp;
   }
-  return (arr);
+  return (list);
 };
