@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa
+a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
 """
 if __name__ == "__main__":
     from model_state import State
@@ -19,12 +19,9 @@ if __name__ == "__main__":
 
     # bind the configure info to this .py process and connect
     session = sessionmaker(bind=engine)()
-    s = argv[4]
-    res = session.query(State).filter(State.name == s).all()
-    if res:
-        for obj in res:
-            print(f"{obj.id}")
-    else:
-        print("Not found")
+    lous = State(name="Louisiana")
+    session.add(lous)
+    res = session.query(State).filter(State.name == "Louisiana").first()
+    print(f"{res.id}")
     session.commit()
     session.close()
