@@ -12,6 +12,7 @@ if __name__ == "__main__":
     from relationship_city import City
     from sys import argv
 
+
     u = argv[1]
     p = argv[2]
     ht = f"@localhost:3306/{argv[3]}"
@@ -23,13 +24,13 @@ if __name__ == "__main__":
     Base.metadata.create_all(engine)
 
     # open communication channel to the dialect
-    session = sessionmaker(bind=engine)()
+    Session = sessionmaker(bind=engine)
+    session = Session()
 
     res = session.query(State).join(City).order_by(State.id, City.id).all()
     for s in res:
-        print(s.id, s.name, sep=": ")
+        print(f"{s.id}:  {s.name}")
         for c in s.cities:
-            print("    ", end="")
-            print(c.id, c.name, sep=": ")
+            print(f"     {c.id}: {c.name}")
     session.commit()
     session.close()
