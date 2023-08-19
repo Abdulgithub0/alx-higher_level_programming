@@ -19,6 +19,7 @@ if __name__ == "__main__":
 
     # bind the configure info to this .py process and connect
     session = sessionmaker(bind=engine)()
-    res = session.query(State).filter(State.id == 2).update({"name": "New Mexico"})
+    res = session.query(State).filter(State.id == 2
+                                      ).update({"name": "New Mexico"})
     session.commit()
     session.close()
