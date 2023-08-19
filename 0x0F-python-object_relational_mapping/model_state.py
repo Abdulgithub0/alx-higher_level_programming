@@ -6,7 +6,7 @@ Defining class State that mapped to table states in hbtn_0e_6_usa db
 
 # from sys import argv
 from sqlalchemy import Column, Table, Integer, String, create_engine
-from sqlalchemy.orm import declarative_base, sessionmaker
+from sqlalchemy.orm import declarative_base, sessionmaker, relationship
 """
 ht = argv[1]
 pw = argv[2]
@@ -31,6 +31,8 @@ class State(Base):
 
     id = Column(Integer, autoincrement=True, primary_key=True, nullable=False)
     name = Column(String(128), nullable=False)
+
+    city = relationship("City", back_populates="state")
 
 
 # Base.metadata.create_all(engine)
