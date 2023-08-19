@@ -25,6 +25,7 @@ Base = declarative_base()
 
 
 class State(Base):
+    """State Class that inherits from Base"""
     __tablename__ = 'states'
 
     id = Column(Integer, autoincrement=True, primary_key=True, nullable=False)
