@@ -19,8 +19,8 @@ if __name__ == "__main__":
 
     # bind the configure info to this .py process and connect
     session = sessionmaker(bind=engine)()
-    res = session.query(State).order_by(State.id).limit(1).all()
-    if len(res) != 0:
+    res = session.query(State).first()
+    if res:
         for obj in res:
             print(f"{obj.id}: {obj.name}")
     else:
