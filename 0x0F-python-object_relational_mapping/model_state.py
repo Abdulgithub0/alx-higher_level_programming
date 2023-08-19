@@ -8,8 +8,13 @@ from sys import argv
 from sqlalchemy import Column, Table, Integer, String, create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
+ht = argv[1]
+pw = argv[2]
+db = argv[3]
+
 # Configuring communication channel info
-engine = create_engine(f"mysql+mysqldb://{argv[1]}:{argv[2]}@localhost:3306/{argv[3]}", pool_pre_ping=True)
+engine = create_engine(f"mysql+mysqldb://{ht}:{pw}@localhost/{db}",
+                       pool_pre_ping=True)
 
 # Establishing communication channel to argv[3] db of mysql process(3306)
 Session = sessionmaker(bind=engine)
@@ -18,11 +23,13 @@ session = Session()
 # construct declarative_base class
 Base = declarative_base()
 
+
 class State(Base):
     __tablename__ = 'states'
 
     id = Column(Integer, autoincrement=True, primary_key=True, nullable=False)
     name = Column(String(128), nullable=False)
+
 
 Base.metadata.create_all(engine)
 try:
