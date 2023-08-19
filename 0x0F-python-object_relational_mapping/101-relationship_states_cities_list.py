@@ -27,8 +27,9 @@ if __name__ == "__main__":
 
     res = session.query(State).join(City).order_by(State.id, City.id).all()
     for s in res:
-        print(f"{s.id}: {s.name}")
+        print(s.id, s.name, sep=": ")
         for c in s.cities:
-            print(f"\t{c.id}: {c.name}")
+            print("    ", end="")
+            print(c.id, c.name, sep=": ")
     session.commit()
     session.close()
