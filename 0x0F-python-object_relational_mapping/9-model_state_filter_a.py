@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
     # bind the configure info to this .py process and connect
     session = sessionmaker(bind=engine)()
-    res = session.query(State).filter(State.name.like('%a%')
+    res = session.query(State).filter(State.name.contains('a')
                                       ).order_by(State.id).all()
     if res:
         for obj in res:
