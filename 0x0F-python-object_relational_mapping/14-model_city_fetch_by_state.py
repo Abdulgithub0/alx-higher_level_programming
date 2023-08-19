@@ -19,7 +19,9 @@ if __name__ == "__main__":
     Base.metadata.create_all(engine)
     Session = sessionmaker(bind=engine)
     session = Session()
-    res = session.query(State.name, City.id, City.name).filter(State.id == City.state_id).order_by(City.id).all()
+    res = session.query(State.name, City.id, City.name
+                        ).filter(State.id == City.state_id
+                                 ).order_by(City.id).all()
     for obj in res:
         print(f"{obj[0]}: ({obj[1]}) {obj[2]}")
     session.commit()
