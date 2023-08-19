@@ -21,8 +21,7 @@ if __name__ == "__main__":
     session = sessionmaker(bind=engine)()
     res = session.query(State).first()
     if res:
-        for obj in res:
-            print(f"{obj.id}: {obj.name}")
+        print(f"{res.id}: {res.name}")
     else:
         print("Nothing")
     session.commit()
