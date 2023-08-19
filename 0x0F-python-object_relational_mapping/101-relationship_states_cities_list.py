@@ -25,10 +25,11 @@ if __name__ == "__main__":
     # open communication channel to the dialect
     session = sessionmaker(bind=engine)()
 
-    res = session.query(State).order_by(State.id).all()
-    for s in res:
-        print(f"{s.id}:  {s.name}")
-        for c in s.cities:
-            print(f"     {c.id}: {c.name}")
+    res = session.query(State).join(City).order_by(State.id, City.id).all()
+    #for s in res:
+     #   print(f"{s.id}:  {s.name}")
+      #  for c in s.cities:
+       #     print(f"     {c.id}: {c.name}")
+    print(res)
     session.commit()
     session.close()
