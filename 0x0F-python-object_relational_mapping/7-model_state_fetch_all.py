@@ -4,7 +4,7 @@
 a script that lists all State objects from the database hbtn_0e_6_usa
 """
 if __name__ == "__main__":
-    from model_state import Base, State
+    from model_state import State
     from sqlalchemy import create_engine
     from sqlalchemy.orm import sessionmaker
     from sys import argv
@@ -16,9 +16,6 @@ if __name__ == "__main__":
     ht = "@localhost:3306"
     engine = create_engine(f"mysql+mysqldb://{u}:{p}{ht}/{db}",
                            pool_pre_ping=True)
-
-    # temp store the mapped object(states--State) & its MD setting on engine
-    # Base.metadata.create_all(engine)
 
     # bind the configure info to this .py process and connect
     session = sessionmaker(bind=engine)()
