@@ -24,7 +24,5 @@ if __name__ == "__main__":
     if res:
         for obj in res:
             print(f"{obj.id}: {obj.name}")
-    else:
-        print("Nothing")
     session.commit()
     session.close()
