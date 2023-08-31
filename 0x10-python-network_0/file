@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+
+<head>
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-M9JJXBX"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VTSDQ5');</script>
+<!-- End Google Tag Manager -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-181736184-1"></script>
+
+<!-- Meta Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '230215121333098');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=230215121333098&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- End Meta Pixel Code -->
+
+<!-- Hotjar Tracking Code for ALX Africa -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3279863,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="text/javascript">
+
+_linkedin_partner_id = "3863250";
+
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+</script><script type="text/javascript">
+
+(function(l) {
+
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+
+window.lintrk.q=[]}
+
+var s = document.getElementsByTagName("script")[0];
+
+var b = document.createElement("script");
+
+b.type = "text/javascript";b.async = true;
+
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3863250&fmt=gif" />
+
+</noscript>
+
+<!-- Twitter conversion tracking base code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+twq('config','o519h');
+</script>
+<!-- End Twitter conversion tracking base code -->
+
+
+
+	<meta charset="UTF-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600&display=swap" rel="stylesheet">
+	<title>Home - ALX</title>
+
+		<!-- All in One SEO 4.4.4 - aioseo.com -->
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://www.alxafrica.com/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.4.4" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="ALX -" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Home - ALX" />
+		<meta property="og:url" content="https://www.alxafrica.com/" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Home - ALX" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.alxafrica.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.alxafrica.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.alxafrica.com\/","name":"Home","url":"https:\/\/www.alxafrica.com\/"}}]},{"@type":"Organization","@id":"https:\/\/www.alxafrica.com\/#organization","name":"ALX","url":"https:\/\/www.alxafrica.com\/"},{"@type":"WebPage","@id":"https:\/\/www.alxafrica.com\/#webpage","url":"https:\/\/www.alxafrica.com\/","name":"Home - ALX","inLanguage":"en-AU","isPartOf":{"@id":"https:\/\/www.alxafrica.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.alxafrica.com\/#breadcrumblist"},"datePublished":"2023-04-03T05:57:27+00:00","dateModified":"2023-08-31T12:50:08+00:00"},{"@type":"WebSite","@id":"https:\/\/www.alxafrica.com\/#website","url":"https:\/\/www.alxafrica.com\/","name":"ALX","inLanguage":"en-AU","publisher":{"@id":"https:\/\/www.alxafrica.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.alxafrica.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//pro.fontawesome.com' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.19 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-Y49H7D9C6F"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.19';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-Y49H7D9C6F',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-Y49H7D9C6F', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.alxafrica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.alxafrica.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.alxafrica.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://pro.fontawesome.com/releases/v5.10.0/css/all.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-css' href='https://www.alxafrica.com/wp-content/themes/ALX/fonts/stylesheet.css?ver=1681440696' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css' href='https://www.alxafrica.com/wp-content/themes/ALX/icomoon/style.css?ver=1681440696' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.alxafrica.com/wp-content/themes/ALX/css/style.css?ver=1681453335' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.19' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.alxafrica.com","hash_tracking":"false","v4_id":"G-Y49H7D9C6F"};/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/themes/ALX/js/jquery-3.6.0.min.js?ver=3.6.0' id='jquery-js'></script>
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/themes/ALX/js/slick.min.js?ver=6.3' id='slick-js'></script>
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/themes/ALX/js/cookies.js?ver=6.3' id='cookies-js'></script>
+<link rel="https://api.w.org/" href="https://www.alxafrica.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.alxafrica.com/wp-json/wp/v2/pages/7974" /><link rel='shortlink' href='https://www.alxafrica.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.alxafrica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alxafrica.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.alxafrica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.alxafrica.com%2F&#038;format=xml" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<style type="text/css" id="wp-custom-css">
+			#menu-header-menu li.menu-item-has-children {position: relative;}
+#menu-header-menu .sub-menu {
+			position: absolute;
+			left: 60px;
+	top: 35px;
+			min-width: 200px;
+			max-width: 250px;
+			background: #FFFFFF;
+			visibility: hidden;
+			box-shadow: 0 0 15px rgba(0, 0, 0, 0.16);
+			opacity: 0;
+			padding: 5px 0;
+			transition: 0.4s;
+			-webkit-transition: 0.4s;
+			-moz-transition: 0.4s;
+			-ms-transition: 0.4s;
+			-o-transition: 0.4s;
+			transform: translate(-50%, 0);
+			-webkit-transform: translate(-50%, 0);
+			-moz-transform: translate(-50%, 0);
+			-ms-transform: translate(-50%, 0);
+			-o-transform: translate(-50%, 0);
+		}
+		#menu-header-menu li.menu-item-has-children > a:after {
+			display: inline-flex;
+			position: relative;
+			content: "\f107";
+			font-family: "Font Awesome 5 Pro";
+			font-weight: 400;
+			margin-left: 10px;
+		}
+		#menu-header-menu li.menu-item-has-children .sub-menu li > a:hover, #menu-header-menu li.menu-item-has-children:hover > a {
+			color: #3DAC94;
+		}
+		#menu-header-menu li.menu-item-has-children:hover > a:after {
+			    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    -webkit-transition-duration: 0.1s;
+    -moz-transition-duration: 0.1s;
+    -o-transition-duration: 0.1s;
+    transition-duration: 0.1s;
+		}
+
+		#menu-header-menu li.menu-item-has-children:hover .sub-menu {
+			visibility: visible;
+			opacity: 1;
+			display: block!important;
+		}
+		#menu-header-menu .sub-menu li {
+			margin: 0;
+			border-bottom: 1px solid rgba(0, 0, 0, 0.16);
+		}
+		#menu-header-menu .sub-menu li a {
+			padding: 7px 20px;
+		}
+		#menu-header-menu li.menu-item-has-children a {
+			padding: 7px 5px;
+			display: block;
+		}
+			#menu-header-menu .sub-menu li {
+			list-style-type: none;
+		}
+#menu-header-menu li .sub-menu li:last-child {
+    border: none;
+}
+@media (max-width: 1199px){
+	nav {
+		align-items: flex-start;
+	}
+	nav.open {
+    padding-top: 50%;
+}
+}
+@media (max-width: 767px) {
+	#menu-header-menu .sub-menu {
+	    position: relative;
+  color: #FFFFFF;
+		background: transparent;
+		box-shadow: none;
+		border-bottom: 1px solid #FFFFFF;
+    display: none;
+    left: auto;
+    top: auto;
+    min-width: initial;
+    max-width: 100%;
+    margin: 0;
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+	}
+
+			#menu-header-menu li.menu-item-has-children  a:first-of-type {
+			padding-left: 35px;
+		}
+				#menu-header-menu li.menu-item-has-children  .sub-menu a {
+			padding-left: 20px;
+		}
+
+}		</style>
+		<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style>	<link rel="icon" href="https://www.alxafrica.com/wp-content/uploads/2022/12/logo.png" type="image/x-icon" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1" />
+    
+    
+</head>
+
+<body class="home page-template-default page page-id-7974">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VTSDQ5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/26610434.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+	
+	<header class="header header--white">
+		<div class="container">
+			<div class="content">
+				<div class="brand">
+										<a href="https://www.alxafrica.com"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/logo-white.svg" alt="ALX" /></a>
+											<img class="brand-logo" src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/logo.png" alt="Masktercard Foundation" />
+									</div>
+				<nav>
+					<div class="nav">
+					<ul id="menu-header-menu" class=""><li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://www.alxafrica.com/about/">About</a></li>
+<li id="menu-item-8492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8492"><a href="#">Programmes</a>
+<ul class="sub-menu">
+	<li id="menu-item-8493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8493"><a href="https://www.alxafrica.com/aws-cloud-computing">AWS Cloud Computing</a></li>
+	<li id="menu-item-8494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8494"><a href="https://www.alxafrica.com/data-analytics">Data Analytics</a></li>
+	<li id="menu-item-8495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8495"><a href="https://www.alxafrica.com/salesforce-administrator">Salesforce Administrator</a></li>
+	<li id="menu-item-8528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8528"><a href="https://www.alxafrica.com/software-engineering-plus/">Software Engineering Plus</a></li>
+	<li id="menu-item-8562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8562"><a href="https://www.alxafrica.com/intro-to-software-engineering/">Intro To Software Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-8532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8532"><a href="#">Admissions</a>
+<ul class="sub-menu">
+	<li id="menu-item-8530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8530"><a href="https://tech.alxafrica.com/alx-tech-plus-programme-admissions">Tech Plus Programmes</a></li>
+	<li id="menu-item-8580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8580"><a href="https://tech.alxafrica.com/alx-tech-core-programmes-admissions">Tech Core Programmes</a></li>
+</ul>
+</li>
+<li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="https://www.alxafrica.com/alx-journey/">The ALX Journey</a></li>
+<li id="menu-item-7664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7664"><a href="https://www.alxafrica.com/women-in-tech/">WomXn &#038; Tech</a></li>
+<li id="menu-item-7888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7888"><a href="https://www.alxafrica.com/news/">News</a></li>
+<li id="menu-item-7275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7275"><a href="https://www.alxafrica.com/blog/">Our Blog</a></li>
+</ul>					</div>
+				</nav>
+				<div class="burger">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	
+
+
+	<section class="banner banner--home">
+					<div class="bg-box"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/hero-ALX.png)"></div></div>				<div class="container">
+			<div class="content">
+				<div class="text">
+					<h1>Power Your <span>Future</span> In Tech</h1>					<p>Gain the digital career-ready skills to transform your future</p>				</div>
+				<div class="img"><div style="background-image:url(7)"></div></div>			</div>
+		</div>
+		<img class="brand-logo" src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/logo.png" alt="Masktercard Foundation" />
+	</section>
+	<section class="now-open">
+	<div class="color-box"></div>
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-10">
+				<div class="now-open-box">
+					<div class="slider">
+																				<div class="content"><!-- start: 01 August 2023  - deadLine: 12 September 2023 -->
+																	<span class="tag" >Now open</span>
+																<div class="text">
+									<h2>Software Engineering Plus</h2>
+									<p>
+										15 months/Full Time<span>&nbsp;|&nbsp;</span>Application deadline: 12 September 2023									</p>
+								</div>
+																											<div class="link"><a class="btn btn-teal" href="https://tech.alxafrica.com/apply" target="_self">Enrol Now</a></div>
+																								</div>
+																				<div class="content"><!-- start: 03 August 2023 - deadLine: 12 September 2023 -->
+																	<span class="tag" >Now open</span>
+																<div class="text">
+									<h2>Intro to Software Engineering</h2>
+									<p>
+										4 months/Full Time<span>&nbsp;|&nbsp;</span>Application deadline: 12 September 2023									</p>
+								</div>
+																											<div class="link"><a class="btn btn-teal" href="https://tech.alxafrica.com/apply/iswe" target="_self">Enrol Now</a></div>
+																								</div>
+																				<div class="content"><!-- start: 01 August 2023 - deadLine: 12 September 2023 -->
+																	<span class="tag" >Now open</span>
+																<div class="text">
+									<h2>Salesforce Administrator</h2>
+									<p>
+										7 months/Full Time<span>&nbsp;|&nbsp;</span>Application deadline: 12 September 2023									</p>
+								</div>
+																											<div class="link"><a class="btn btn-teal" href="https://tech.alxafrica.com/apply " target="_self">Enrol Now</a></div>
+																								</div>
+																				<div class="content"><!-- start: 01 August 2023 - deadLine: 12 September 2023 -->
+																	<span class="tag" >Now open</span>
+																<div class="text">
+									<h2>Data Analytics</h2>
+									<p>
+										6 months/Full Time<span>&nbsp;|&nbsp;</span>Application deadline: 12 September 2023									</p>
+								</div>
+																											<div class="link"><a class="btn btn-teal" href="https://tech.alxafrica.com/apply" target="_self">Enrol Now</a></div>
+																								</div>
+																	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+			<!-- list_of_programmes -->
+		
+<section class="programe-list">
+	<div class="container">
+				<div class="row">
+			<div class="col">
+				<div class="text text-center wowo fadeInUp">
+					<h2>Claim Your Place in the New Global Digital Workforce</h2>					<p class="lead">At ALX, our programmes are designed to prepare you for a career in the world’s fastest growing industries.</p>				</div>
+			</div>
+		</div>
+				<div class="row">
+							
+<div class="col-lg-4 col-6 wowo fadeInUp" style="--border:#dda617;">
+	<div class="list__item">
+		<div class="img">
+			<div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/07/iStock-1179477142.jpg);"></div>
+            <a href="https://www.alxafrica.com/software-engineering-plus/" style="display: flex; position: absolute; left: 0; top: 0; width: 100%; height: 100%;"></a>
+							<span class="tag" >Now open</span>
+					</div>
+		<div class="text">
+			<h3><a href="https://www.alxafrica.com/software-engineering-plus/" style="color: #0B4B6F;">Software Engineering Plus</a></h3>
+			<p>15 months/Full Time</p>
+			<div class="links">
+				<a href="https://www.alxafrica.com/software-engineering-plus/" class="link">Learn more <i class="iconfont icon-arrow-down"></i></a>
+															<a class="btn btn-outline-teal" href="https://tech.alxafrica.com/apply" target="_self">Enrol Now</a>
+												</div>
+		</div>
+	</div>
+</div>							
+<div class="col-lg-4 col-6 wowo fadeInUp" style="--border:#dda617;">
+	<div class="list__item">
+		<div class="img">
+			<div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/07/iStock-1278993455.jpg);"></div>
+            <a href="https://www.alxafrica.com/intro-to-software-engineering/" style="display: flex; position: absolute; left: 0; top: 0; width: 100%; height: 100%;"></a>
+							<span class="tag" >Now open</span>
+					</div>
+		<div class="text">
+			<h3><a href="https://www.alxafrica.com/intro-to-software-engineering/" style="color: #0B4B6F;">Intro to Software Engineering</a></h3>
+			<p>4 months/Full Time</p>
+			<div class="links">
+				<a href="https://www.alxafrica.com/intro-to-software-engineering/" class="link">Learn more <i class="iconfont icon-arrow-down"></i></a>
+															<a class="btn btn-outline-teal" href="https://tech.alxafrica.com/apply/iswe" target="_self">Enrol Now</a>
+												</div>
+		</div>
+	</div>
+</div>							
+<div class="col-lg-4 col-6 wowo fadeInUp" style="--border:#3dac94;">
+	<div class="list__item">
+		<div class="img">
+			<div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2022/12/img-salesforce.png);"></div>
+            <a href="https://www.alxafrica.com/salesforce-administrator/" style="display: flex; position: absolute; left: 0; top: 0; width: 100%; height: 100%;"></a>
+							<span class="tag" >Now open</span>
+					</div>
+		<div class="text">
+			<h3><a href="https://www.alxafrica.com/salesforce-administrator/" style="color: #0B4B6F;">Salesforce Administrator</a></h3>
+			<p>7 months/Full Time</p>
+			<div class="links">
+				<a href="https://www.alxafrica.com/salesforce-administrator/" class="link">Learn more <i class="iconfont icon-arrow-down"></i></a>
+															<a class="btn btn-outline-teal" href="https://tech.alxafrica.com/apply " target="_self">Enrol Now</a>
+												</div>
+		</div>
+	</div>
+</div>							
+<div class="col-lg-4 col-6 wowo fadeInUp" style="--border:#ee6c4d;">
+	<div class="list__item">
+		<div class="img">
+			<div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2022/12/img-data-science.png);"></div>
+            <a href="https://www.alxafrica.com/data-analytics/" style="display: flex; position: absolute; left: 0; top: 0; width: 100%; height: 100%;"></a>
+							<span class="tag" >Now open</span>
+					</div>
+		<div class="text">
+			<h3><a href="https://www.alxafrica.com/data-analytics/" style="color: #0B4B6F;">Data Analytics</a></h3>
+			<p>6 months/Full Time</p>
+			<div class="links">
+				<a href="https://www.alxafrica.com/data-analytics/" class="link">Learn more <i class="iconfont icon-arrow-down"></i></a>
+															<a class="btn btn-outline-teal" href="https://tech.alxafrica.com/apply" target="_self">Enrol Now</a>
+												</div>
+		</div>
+	</div>
+</div>							
+<div class="col-lg-4 col-6 wowo fadeInUp" style="--border:#98c1d9;">
+	<div class="list__item">
+		<div class="img">
+			<div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2022/03/img-1.jpg);"></div>
+            <a href="https://www.alxafrica.com/aws-cloud-computing/" style="display: flex; position: absolute; left: 0; top: 0; width: 100%; height: 100%;"></a>
+							<span class="tag" >Now open</span>
+					</div>
+		<div class="text">
+			<h3><a href="https://www.alxafrica.com/aws-cloud-computing/" style="color: #0B4B6F;">AWS Cloud Computing</a></h3>
+			<p>7 months/Full Time</p>
+			<div class="links">
+				<a href="https://www.alxafrica.com/aws-cloud-computing/" class="link">Learn more <i class="iconfont icon-arrow-down"></i></a>
+															<a class="btn btn-outline-teal" href="https://tech.alxafrica.com/apply " target="_self">Enrol Now</a>
+												</div>
+		</div>
+	</div>
+</div>					</div>
+	</div>
+</section>			<!-- results -->
+		
+<section class="results">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="text text-center">
+					<h2 class="wowo fadeInUp">ALX In Numbers</h2>				</div>
+			</div>
+		</div>
+		<div class="row">
+																<div class="col-lg-3 col-6">
+						<div class="item text text-center wowo fadeInUp">
+							<p class="num">80K</p>							<p>ALX graduates since 2021</p>						</div>
+					</div>
+													<div class="col-lg-3 col-6">
+						<div class="item text text-center wowo fadeInUp">
+							<p class="num">85%</p>							<p>6-month employment rate for ALX graduates</p>						</div>
+					</div>
+													<div class="col-lg-3 col-6">
+						<div class="item text text-center wowo fadeInUp">
+							<p class="num">93%</p>							<p>graduate satisfaction score</p>						</div>
+					</div>
+													<div class="col-lg-3 col-6">
+						<div class="item text text-center wowo fadeInUp">
+							<p class="num">85M</p>							<p>global demand for tech professionals by 2030</p>						</div>
+					</div>
+									</div>
+		<div class="row justify-content-center">
+			<div class="col-xl-6 col-lg-8 col-md-10 col-11">
+				<div class="blockquote-box wowo fadeInUp">
+					<blockquote>Problem solving skills are more important than the ability to purely write code. ALX created a habit loop of researching, learning, then applying. That, combined with the deadline-driven projects, created a time crunch mentality that pushed us to code at a high-level, international standard.</blockquote>					<div class="cite">
+						<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/yosef.png)"></div></div>						<cite>
+							<strong>Yosef Ayele</strong> | <span>ALX Graduate ‘22</span><br>															<a href="https://www.alxafrica.com/leading-from-within-alx-ethiopia/" target="_self">Read more about his journey with ALX</a>
+													</cite>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</section>			<!-- hubs -->
+		
+<section class="hubs" id="home-hubs">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-5">
+				<div class="text left">
+					<p class="subtitle">OUR HUBS</p>					<h2>Co-working, Connecting and Climbing</h2>					<p>Unlock the key to success and join a community of like-minded individuals in a state-of-the-art co-working environment. Take advantage of high-speed internet, peer support, and a vibrant space to help you thrive.  <br><br>Our hubs are designed to take your productivity and growth to new heights, where the rigour of online training is deepened through in-person experiences and practised in context.</p>					<a class="btn btn-outline-teal" href="https://www.alxafrica.com/hubs">Learn More</a>
+					<!-- <ul>
+																												<li>Johannesburg, South Africa</li>																						<li>Casablanca, Morocco</li>																						<li>Lagos, Nigeria</li>																						<li>Kigali, Rwanda</li>																						<li>Accra, Ghana</li>																						<li>Addis Ababa, Ethiopia</li>																						<li>Nairobi, Kenya</li>																						<li>Cairo, Egypt</li>																		</ul> -->
+				</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="right">
+					<div class="list">
+																													<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-south-africa.png)"></div></div>									<div class="text">
+										<p><strong>Johannesburg, South Africa</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-ghana.png)"></div></div>									<div class="text">
+										<p><strong>Casablanca, Morocco</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-nigeria.png)"></div></div>									<div class="text">
+										<p><strong>Lagos, Nigeria</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-rwanda.png)"></div></div>									<div class="text">
+										<p><strong>Kigali, Rwanda</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-ghana.png)"></div></div>									<div class="text">
+										<p><strong>Accra, Ghana</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-ethiopia.png)"></div></div>									<div class="text">
+										<p><strong>Addis Ababa, Ethiopia</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-kenya.png)"></div></div>									<div class="text">
+										<p><strong>Nairobi, Kenya</strong></p>																			</div>
+								</div>
+																							<div class="item">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-morocco.png)"></div></div>									<div class="text">
+										<p><strong>Cairo, Egypt</strong></p>																			</div>
+								</div>
+														
+											</div>
+					<div class="img">
+						<img src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/map.svg" alt="">
+						<!-- <div class="circles">
+							<div class="circle"><div></div></div>
+							<div class="circle"><div></div></div>
+							<div class="circle"><div></div></div>
+						</div> -->
+						<div class="dots">
+																																	<div class="dot">
+										<label>South Africa</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Morocco</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Nigeria</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Rwanda</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Ghana</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Ethiopia</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Kenya</label>										<div></div>
+									</div>
+																										<div class="dot">
+										<label>Egypt</label>										<div></div>
+									</div>
+																					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>			<!-- journey -->
+		
+<section class="journey">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 order-lg-1">
+				<div class="text text-md-center">
+					<h2>Meet Our Learners </h2>					<p>Follow the Journeys of Our Learners & Graduates</p>									</div>
+			</div>
+			<div class="col-lg-8">
+				<div class="row">
+																								<div class="col-sm-6">
+								<div class="item wowo fadeInUp">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/05/198A1219-scaled.jpg)"></div></div>									<div class="text">
+										<p><strong>Karibu, ALX 2023 Learners!</strong></p>																					<a href="https://www.alxafrica.com/blog/karibu-alx-2023-learners/" target="_self">Read Story</a>
+																			</div>
+								</div>
+							</div>
+																			<div class="col-sm-6">
+								<div class="item wowo fadeInUp">
+									<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/05/Smith-Photo-Jilks-Smith-copy-scaled-e1684845178773.jpg)"></div></div>									<div class="text">
+										<p><strong>The Gold Fellowship: Where Career Excellence Is the Norm</strong></p>																					<a href="https://www.alxafrica.com/blog/the-gold-fellowship-where-career-excellence-is-the-norm/" target="_self">Read Story</a>
+																			</div>
+								</div>
+							</div>
+															</div>
+			</div>
+		</div>
+	</div>
+</section>			<!-- client -->
+		
+<section class="client wowo fadeInUp">
+	<div class="container">
+		<div class="content text-center">
+			<h2>ALX Young Leaders On The Move</h2>						<div class="list">
+																												<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-10.png" style="width:80px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-16.png" style="width:76.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-15.png" style="width:96.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-14.png" style="width:179px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-13.png" style="width:49px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-12.png" style="width:141.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-11.png" style="width:147.5px;"/></div>																																											<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-10.png" style="width:80px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-16.png" style="width:76.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-15.png" style="width:96.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-14.png" style="width:179px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-13.png" style="width:49px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-12.png" style="width:141.5px;"/></div>																														<div class="img"><img src="https://www.alxafrica.com/wp-content/uploads/2022/12/icon-11.png" style="width:147.5px;"/></div>																		</div>
+		</div>
+	</div>
+</section>			<!-- learners -->
+		
+<section class="learners">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3">
+				<div class="text text-md-center">
+					<h2>How Learners Like You Are Achieving Their Goals</h2>											<a href="https://www.alxafrica.com/category/meet-our-talent/" target="_self">Read more stories</a>
+									</div>
+			</div>
+			<div class="col-lg-9">
+				<div class="testimonials">
+																								<div class="item wowo fadeInUp">
+								<div class="blockquote-box">
+									<div class="text text-center">
+										<blockquote>ALX helped me unlock my true potential and start to believe in myself. Through the experience, I was able to grow my skill set and identify my definition of success. It helped me to remember who I am and what I stand for. As a result, my outlook on life changed and I became inspired to recognise the contribution I could make as a young person.</blockquote>										<div class="cite">
+											<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-millicent.png)"></div></div>											<cite><strong>Millicent Aluoch, Kenya</strong></cite>										</div>
+									</div>
+								</div>
+							</div>
+																			<div class="item wowo fadeInUp">
+								<div class="blockquote-box">
+									<div class="text text-center">
+										<blockquote>ALX showed me the depth and scope of the tech field and what it would take to work for a global tech company.</blockquote>										<div class="cite">
+											<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-kibirt.png)"></div></div>											<cite><strong>Kibirt Bayou, Ethiopia</strong></cite>										</div>
+									</div>
+								</div>
+							</div>
+																			<div class="item wowo fadeInUp">
+								<div class="blockquote-box">
+									<div class="text text-center">
+										<blockquote>What differentiates the ALX Software Engineering programme from any programme I have taken or heard of is its unique non-traditional approach to learning. I can testify that within 3 months I learnt more than I did in one full year of my university with the traditional education model. The project based approach to learning makes it possible to grasp every concept in detail. You will also develop the soft skills that are required for your career, learning from your peers and learning about professional growth constantly.</blockquote>										<div class="cite">
+											<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-david.png)"></div></div>											<cite><strong>David Mutune, Kenya</strong></cite>										</div>
+									</div>
+								</div>
+							</div>
+																			<div class="item wowo fadeInUp">
+								<div class="blockquote-box">
+									<div class="text text-center">
+										<blockquote>When an opportunity arose to join ALX, I didn’t hesitate to submit an application. I was overjoyed to have been accepted and the experience exceeded my expectations in every way. The coaching and mentorship I received was incredible, accelerating my growth and giving me the confidence to start working in new environments. It was also wonderful to be in a group of likeminded people focused on building their skills on the continent.</blockquote>										<div class="cite">
+											<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-sharon.png)"></div></div>											<cite><strong>Sharon Murage, Kenya</strong></cite>										</div>
+									</div>
+								</div>
+							</div>
+																			<div class="item wowo fadeInUp">
+								<div class="blockquote-box">
+									<div class="text text-center">
+										<blockquote>During my time at ALX, what stood out the most to me was the fast paced and highly comprehensive curriculum. I also enjoyed the focus on developing skills relevant for today’s tech industry, and how the Software Engineering programme grooms you to be able to solve complex, real world problems.</blockquote>										<div class="cite">
+											<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/05/Smith-Photo-Jilks-Smith-copy-scaled-e1684845178773.jpg)"></div></div>											<cite><strong>Jilks Smith, Kenya</strong></cite>										</div>
+									</div>
+								</div>
+							</div>
+															</div>
+			</div>
+		</div>
+	</div>
+</section>			<!-- global_quality_african_accessibility -->
+		
+
+<section class="gqac" style="--gqac-border: #EE6C4D">
+	<div class="mask-box">
+		<img class="wowo rotate" src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/mask-4.svg" alt="">
+	</div>
+	<div class="container">
+		<div class="row align-items-center text-md-center">
+			<div class="col-lg-5">
+				<div class="text wowo fadeInUp">
+					<h2>Global Quality, African Accessibility.</h2>				</div>
+			</div>
+			<div class="col-lg-7">
+				<div class="text wowo fadeInUp">
+					<p><span style="font-weight: 400;">Our partnership with Mastercard Foundation allows us to offer eligible candidates sponsored access to world-class programme training and state-of-the-art in-person and online infrastructure, delivering an unparalleled learning experience for thousands of learners on the continent. Each candidate has the opportunity to apply for a sponsored placement during the application process.</span><span style="font-weight: 400;"><br />
+</span></p>
+				</div>
+							</div>
+		</div>
+	</div>
+	<script>
+		jQuery(".faq2").on("click",function(){
+			jQuery('html,body').animate({
+				scrollTop:jQuery(".faqs").offset().top - 80,
+			},800);
+			
+			// setTimeout(function(){
+				jQuery(".accordion__item.active").removeClass("active").find(".accordion__item-body").slideUp(250);
+				jQuery(".accordion__item").eq(1).addClass("active").find(".accordion__item-body").slideDown(250);
+			// },800)
+			
+			return false;
+		})
+	</script>
+</section>
+
+			<!-- text_and_image -->
+		
+<section class="text-image text-image--right">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 order-md-1 wowo fadeInUp">
+				<div class="text text-md-center">
+										<!-- <h3>The ALX Difference</h3> -->
+					<h2>The ALX Difference</h2>					<p>There are plenty of programmes that teach tech skills. At ALX, our “secret sauce” comes from our career-focused approach to learning. We develop well-rounded tech professionals who are equipped with both the technical proficiencies and soft skills that will enable them to thrive in the future of work.</p>
+<p><a href="https://www.alxafrica.com/alx-journey/">Learn more about the ALX Journey</a></p>
+									</div>
+			</div>
+			<div class="col-md-6 wowo fadeIn">
+				<div class="img"><div style="background-image:url(https://www.alxafrica.com/wp-content/uploads/2023/04/img-students.png)"></div></div>			</div>
+		</div>
+	</div>
+</section>
+
+
+			<!-- text_and_list -->
+		
+
+<section class="text-list">
+	<div class="container">
+		<div class="content">
+			<div class="mask-box">
+				<img class="wowo fadeInLeft" src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/path-2.svg" alt="">
+			</div>
+			
+			<div class="text intro-text wowo fadeInUp">
+				<h2>Founded in Silicon Valley. <br>Built for Africa.</h2>				<div class="img-box d-lg-none d-block"><img src="https://www.alxafrica.com/wp-content/uploads/2023/01/Group-84508338-3-1.png" /></div>				<p>Embark on a rigorous journey that prepares you to succeed in the most in-demand, high-growth industries. Through your ALX programme, you will gain the job-ready skills and critical competencies to seamlessly navigate the digital economy.</p>
+			</div>
+			
+			<div class="img-box d-lg-block d-none wowo fadeInUp"><img src="https://www.alxafrica.com/wp-content/uploads/2023/01/Group-84508338-3-1.png" /></div>			<div class="list wowo fadeInUp">
+				<div class="row">
+																									<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-futureproof@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Future Proof</h3>									<p>Focused on the high paying, in-demand fields of today and tomorrow.</p>								</div>
+							</div>
+																				<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-career-development@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Career Development</h3>									<p>Go beyond ALX and gain access to The ROOM - a network of opportunities, and a community to support your career growth.</p>								</div>
+							</div>
+																				<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-hybrid-learning@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Hybrid Learning</h3>									<p>Collaborate, gain support and get to know your fellow learners at our city hubs.</p>								</div>
+							</div>
+																				<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-ready-to-work@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Ready to Work</h3>									<p>Real world learning approach provides the skills and experience you can put to work on day one.</p>								</div>
+							</div>
+																				<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-flexible@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Flexible</h3>									<p>Regular start dates let you kick-off when you are ready to commit.</p>								</div>
+							</div>
+																				<div class="col-lg-4 col-sm-6 list__item">
+								<div class="img">
+									<img src="https://www.alxafrica.com/wp-content/uploads/2023/01/ic-accessible@2x.png" alt="">
+								</div>
+								<div class="text">
+									<h3>Accessible</h3>									<p>Sponsored places available for eligible students in 2023.</p>								</div>
+							</div>
+															</div>
+			</div>
+			<div class="mask-box">
+				<img class="wowo fadeInLeft" src="https://www.alxafrica.com/wp-content/themes/ALX/images/mask/path-2.svg" alt="">
+			</div>
+		</div>
+	</div>
+</section>			<!-- faqs -->
+		
+<section class="faqs">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-8 col-md-10">
+				<h2 class="wowo fadeInUp">FAQs</h2>				<div class="accordion wowo fadeInUp">
+																									<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>How can I get in touch with ALX Africa to answer the questions I have?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">Please ask  <a href="https://getcody.ai/widget/9962a67b-9879-4596-a7e6-7cc7021225a7" target="_blank" rel="noopener">LEA  </a></span><span style="font-weight: 400;"> our Learning Experience Assistant for more information and answers to any additional questions.</span></p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>What is ALX?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p>ALX offers job-ready training in the tech fields employers need most. ALX, in partnership with The ROOM, is brought to you by the organisation that leads African Leadership Academy, African Leadership University, and Anzisha Prize Foundation.</p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>When will I hear if I’m accepted </p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">ALX programmes have a set number of cohort seats and in order to ensure you stand the best possible chance of getting accepted into the programme we recommend you apply as early as possible. The ALX selection period is split into two halves. Learners who apply before 9th August will receive feedback on their registration by 16th August. Learners who apply later than 9th August will receive feedback by 12th September. </span></p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>When will I need to pay?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">Learners will be asked to complete their one-time administration fee payment when confirming their enrollment into the programme, no later than two weeks after receiving their confirmation of acceptance. For self-funding learners, flexible payment options are available. </span></p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>How does payment work? </p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">Learners will receive an email to confirm acceptance into their selected programme from <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3a495f565f594e5355547a5b5642145b4a4a">[email&#160;protected]</a></span><span style="font-weight: 400;">. From this email you will be able to access</span><span style="font-weight: 400;"> our dedicated payment portal to pay your fee. This will be </span><b>the only time</b><span style="font-weight: 400;"> that ALX will request payment for an administration fee from its sponsored learners &#8211; if you receive any other communication around selection fees or application fees, please notify us on</span><span style="font-weight: 400;"> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="09656c6e6865497d616c7b666664276a6664">[email&#160;protected]</a>. </span></p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>Can I pay in my local currency?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">Learners can choose to pay either in their local currency or in USD. </span></p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>Will I be able to pay through a local  payment provider?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p><span style="font-weight: 400;">ALX accepts a wide variety of payment providers.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Egypt: Debit and Credit Cards, Applepay, Googlepay, Fawrypay</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ethiopia: Debit and Credit Cards</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ghana: Debit and Credit Cards, Applepay, Googlepay, MTN, Vodafone, Airtel</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Kenya: Debit and Credit Cards, mpesa, Airtel</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Morocco: Debit and Credit Cards, Applepay, Googlepay</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Nigeria: Debit and Credit Cards, Bank Transfer, Applepay, Googlepay, POS, USSD, NQR, Bank transfer, eNaira, PayAttitude, Paga</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rwanda: Debit and Credit Cards, MTN, Airtel</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">South Africa: Debit and Credit Cards, Nedbank, Standard Bank, FNBm Absa, Investec, African bank, bidvest bank, thymebank, 1voucher, Applepay, Googlepay, Zapper</span></li>
+</ul>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>What are the payment terms and options?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p>Find out about our available payment terms and options <a class="c-link" href="https://www.alxafrica.com/payment-cancellation-policies/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.alxafrica.com/payment-cancellation-policies/" data-sk="tooltip_parent">here</a>. Eligible candidates can apply directly for sponsored placements on each relevant programme page.</p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>How do I join The ROOM Fellowship?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p>All ALX learners are invited to join The ROOM Fellowship community where you will have access to a global network of resources, job opportunities, and ongoing career support.</p>
+									</div>
+								</div>
+							</div>
+																				<div class="accordion__item">
+								<div class="accordion__item-title">
+									<p>Can I register for multiple programmes at the same time?</p>
+									<div class="accordion__switch iconfont icon-arrow-down"></div>
+								</div>
+								<div class="accordion__item-body">
+									<div class="text">
+										<p>Due to training requirements and programme rigour, ALX permits learners to be enrolled in only one programme at any given time. If you have applied to or are currently enrolled in a programme, you will not be eligible to apply to another programme.<span class="c-message__edited_label" dir="ltr" data-sk="tooltip_parent"> </span></p>
+									</div>
+								</div>
+							</div>
+															</div>
+			</div>
+		</div>
+	</div>
+</section>	<section class="call-to-action">
+	<!-- <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-10">
+				<div class="content">
+					<div class="text">
+						<p class="lead">Take The Next Step</p>
+						<p>Are you ready to shape your future and start your registration today? </p>
+					</div>
+											<a href="#" class="btn btn-teal register-btn">Get Started</a>
+									</div>
+			</div>
+		</div>
+	</div> -->
+</section>
+
+<div class="register-pop-up">
+	<div class="masker-layer"></div>
+	<div class="content">
+		<div class="content-box">
+			<div class="content-box-box">
+				<!-- <div class="box box-thank" style="display: none;">
+					<a href="#" class="close"></a>
+					<div class="text">
+						<h2>Thank you for your inquiry.</h2>
+						<p>One of our team members will be in touch.</p>
+					</div>
+				</div> -->
+				<div class="box box-form" id="register-pop-up">
+					<a href="#" class="close"></a>
+					<h2></h2>
+					<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "26610434",
+    formId: "a0175eec-9cce-4a81-b032-c655fd3b1f2c"
+  });
+</script>				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- <script type="text/javascript">
+	if (jQuery('.register-pop-up .wpcf7').length > 0) {
+		var wpcf7Elm = document.getElementById('register-pop-up').querySelector('.wpcf7');
+		wpcf7Elm.addEventListener('wpcf7mailsent', function(event) {
+			jQuery(".register-pop-up .content .box-form").fadeOut(1);
+			jQuery(".register-pop-up .content .box-thank").fadeIn(300);
+		}, false);
+	}
+</script> -->
+<footer>
+	<div class="top">
+		<div class="container">
+			<div class="content">
+				<div class="footer-menu">
+					<ul id="menu-footer-menu" class=""><li id="menu-item-7651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7651"><a href="https://www.alxafrica.com/programmes/">Programmes</a>
+<ul class="sub-menu">
+	<li id="menu-item-7650" class="menu-item menu-item-type-post_type menu-item-object-programme_post menu-item-7650"><a href="https://www.alxafrica.com/aws-cloud-computing/">AWS Cloud Computing</a></li>
+	<li id="menu-item-7642" class="menu-item menu-item-type-post_type menu-item-object-programme_post menu-item-7642"><a href="https://www.alxafrica.com/data-analytics/">Data Analytics</a></li>
+	<li id="menu-item-7644" class="menu-item menu-item-type-post_type menu-item-object-programme_post menu-item-7644"><a href="https://www.alxafrica.com/salesforce-administrator/">Salesforce Administrator</a></li>
+	<li id="menu-item-8529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8529"><a href="https://www.alxafrica.com/software-engineering-plus/">Software Engineering Plus</a></li>
+	<li id="menu-item-8563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8563"><a href="https://www.alxafrica.com/intro-to-software-engineering/">Intro To Software Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-7646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7646"><a href="#">ALX Africa</a>
+<ul class="sub-menu">
+	<li id="menu-item-7647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7647"><a href="https://www.alxafrica.com/about/">About</a></li>
+	<li id="menu-item-7648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7648"><a href="https://www.alxafrica.com/alx-journey/">The ALX Journey</a></li>
+	<li id="menu-item-7667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7667"><a href="https://www.alxafrica.com/women-in-tech/">Women in Tech</a></li>
+	<li id="menu-item-7889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7889"><a href="https://www.alxafrica.com/news/">News</a></li>
+	<li id="menu-item-7649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7649"><a href="https://www.alxafrica.com/blog/">Our Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-8533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8533"><a href="#">Admissions</a>
+<ul class="sub-menu">
+	<li id="menu-item-8535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8535"><a href="https://tech.alxafrica.com/alx-tech-plus-programme-admissions">Tech Plus Programmes</a></li>
+	<li id="menu-item-8581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8581"><a href="https://tech.alxafrica.com/alx-tech-core-programmes-admissions">Tech Core Programmes</a></li>
+</ul>
+</li>
+</ul>				</div>
+				<div class="socials">
+					<h3>#dohardthings &nbsp; #alxafrica</h3>
+					<div class="share-box">
+													<a class="iconfont icon-facebook" href="https://www.facebook.com/alxafrica/" target="_blank" title="Facebook"></a>
+																			<a class="iconfont icon-instagram" href="https://www.instagram.com/alx_africa" target="_blank" title="Instagram"></a>
+																			<a class="iconfont icon-twitter" href="https://twitter.com/alx_africa" target="_blank" title="Twitter"></a>
+																			<a class="iconfont icon-linkedin" href="https://ke.linkedin.com/company/alxafrica" target="_blank" title="LinkedIn"></a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bottom">
+		<div class="container">
+			<div class="content">
+				<div class="text">
+					<p><a href="https://www.alxafrica.com/fraud-disclaimer/">Fraud Disclaimer</a> | <a href="https://www.alxafrica.com/privacy-policy/" target="_blank" rel="noopener">Privacy</a> | © Copyright 2023 | <a href="https://www.theroom.com/careers/" target="_blank" rel="noopener">Careers @ The ROOM</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- <div class="foot container">
+		<div class="text">
+			<h3>#dohardthings &nbsp; #alxafrica</h3>
+			<p><a href="https://www.alxafrica.com/fraud-disclaimer/">Fraud Disclaimer</a> | <a href="https://www.alxafrica.com/privacy-policy/" target="_blank" rel="noopener">Privacy</a> | © Copyright 2023 | <a href="https://www.theroom.com/careers/" target="_blank" rel="noopener">Careers @ The ROOM</a></p>
+		</div>
+		<div class="share">
+			<h3>CONNECT</h3>
+			<div class="share-box">
+									<a class="iconfont icon-facebook" href="https://www.facebook.com/alxafrica/" target="_blank" title="Facebook"></a>
+													<a class="iconfont icon-instagram" href="https://www.instagram.com/alx_africa" target="_blank" title="Instagram"></a>
+													<a class="iconfont icon-twitter" href="https://twitter.com/alx_africa" target="_blank" title="Twitter"></a>
+													<a class="iconfont icon-linkedin" href="https://ke.linkedin.com/company/alxafrica" target="_blank" title="LinkedIn"></a>
+							</div>
+		</div>
+	</div> -->
+</footer>
+
+	<section class="cookies-popup" data-delayTime="">
+		<div class="container">
+			<div class="content">
+				<div class="text"><p>By using the ALXAfrica website, you agree to the website <a href="https://www.alxafrica.com/terms-conditions/">terms of use</a>, the <a href="https://www.alxafrica.com/privacy-policy/">privacy policy</a>, and the use of cookies.</p>
+</div>
+				<a href="#" class="btn btn-outline-teal">Accept</a>
+			</div>
+		</div>
+	</section>
+
+<div class="video-light-box" style="display: none">
+	<div class="video-box">
+		<div class="close" title="Close"></div>
+		<div class="play-iframe-video"></div>
+	</div>
+</div>
+
+
+
+
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) --><script type='text/javascript' src='https://www.alxafrica.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.alxafrica.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.alxafrica.com/wp-content/themes/ALX/js/script.js?ver=1691056246' id='script-js'></script>
+</body>
+
+</html>
