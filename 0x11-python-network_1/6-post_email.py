@@ -14,7 +14,7 @@ def browser(url, mail):
         d = {"email": mail}
         with requests.post(url, data=d) as resp:
             print(resp.text)
-    except requests.exception.RequestException as e:
+    except requests.exceptions.RequestException as e:
         return
 
 
