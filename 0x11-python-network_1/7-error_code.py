@@ -9,9 +9,9 @@ from sys import argv
 
 def browser(url):
     try:
-        with requests.get(url) as resp:
-            resp.raise_for_status()
-            print(resp.text)
+        resp = requests.get(url)
+        resp.raise_for_status()
+        print(resp.text)
     except requests.exceptions.RequestException:
         print("Error code:", resp.status_code)
 
