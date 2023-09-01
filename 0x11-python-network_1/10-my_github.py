@@ -8,15 +8,10 @@ from sys import argv as credentials
 
 
 def get_github_id(username, passwd):
-    url = f"https://api.github.com/user?login={username}"
-    auth = f"Bearer {passwd}"
-    header = {"Authorization": auth,
-              "Accept": "application/vnd.github+json",
-              "X-GitHub-Api-Version": "2022-11-28"}
-    response = req.get(url, headers=header)
+    url = f"https://api.github.com/user"
+    response = req.get(url, auth=req.auth.HTTPBasicAuth(username, passwd))
     response.raise_for_status()
-    user_id = dict(response.json()).get("id")
-    print(user_id)
+    print(dict(response.json()).get("id"))
 
 
 if __name__ == "__main__":
