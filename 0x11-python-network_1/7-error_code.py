@@ -10,9 +10,10 @@ from sys import argv
 def browser(url):
     try:
         with requests.get(url) as resp:
+            resp.raise_for_status()
             print(recv.text)
-    except request.exceptions.RequestException:
-        print("Error code:", resp.raise_for_status())
+    except request.exceptions.RequestException as err:
+        print("Error code:", err)
 
 
 if __name__ == "__main__":
