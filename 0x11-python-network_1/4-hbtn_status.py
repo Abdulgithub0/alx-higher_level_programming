@@ -3,7 +3,7 @@
 if __name__ == "__main__":
     import requests as req
     try:
-        with req("https://alx-intranet.hbtn.io/status") as res:
+        with req.get("https://alx-intranet.hbtn.io/status") as res:
             r = res.text
             print("Body response:")
             print("\t- type: {}".format(type(r)))
