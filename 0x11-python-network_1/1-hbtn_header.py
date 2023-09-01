@@ -10,7 +10,7 @@ if __name__ == "__main__":
     def browser(url):
         try:
             with req.urlopen(url) as resp:
-                print(dict(resp.headers._headers).get("X-Request-Id"))
-        except req.error.URLError as e:
+                print(resp.info().get("X-Request-Id"))
+        except req.URLError as e:
             return
     browser(argv[1])
