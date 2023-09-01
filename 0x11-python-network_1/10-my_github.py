@@ -13,9 +13,10 @@ def get_github_id(username, passwd):
         url = "https://api.github.com/user"
         response = req.get(url, auth=HTTPBasicAuth(username, passwd))
         response.raise_for_status()
-        print(response.json().get("id"))
-    except Exception:
+    except (req.exception.RequestException, ValueError):
         pass
+    finally:
+        print(response.json().get("id"))
 
 
 if __name__ == "__main__":
