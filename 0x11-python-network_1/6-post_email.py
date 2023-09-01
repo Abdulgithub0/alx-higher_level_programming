@@ -12,7 +12,7 @@ from sys import argv
 def browser(url, mail):
     try:
         d = {"email": mail}
-        with requests.post(url, param=d) as resp:
+        with requests.post(url, data=d) as resp:
             print(resp.text)
     except requests.exception.RequestException as e:
         return
