@@ -14,7 +14,7 @@ def get_github_id(username, passwd):
         response = req.get(url, auth=HTTPBasicAuth(username, passwd))
         response.raise_for_status()
     except (req.exception.RequestException, ValueError):
-        print(None)
+        pass
     finally:
         print(response.json().get("id"))
 
