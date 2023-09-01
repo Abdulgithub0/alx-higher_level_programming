@@ -13,7 +13,7 @@ def browser(url):
         with req.get(url) as resp:
             print(resp.headers.get("X-Request-Id"))
     except req.exceptions.RequestException as e:
-        print(e)
+        pass
 
 
 if __name__ == "__main__":
