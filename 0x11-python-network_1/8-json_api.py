@@ -8,8 +8,9 @@ import requests
 from sys import argv
 
 
-def search_user(arg=""):
+def search_user():
     url = "http://0.0.0.0:5000/search_user"
+    arg = argv[1] if argv[1] else ""
     resp = requests.post(url, data={'q': arg})
     try:
         json_data = resp.json()
@@ -22,4 +23,4 @@ def search_user(arg=""):
 
 
 if __name__ == "__main__":
-    search_user(argv[1])
+    search_user()
