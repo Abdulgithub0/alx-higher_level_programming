@@ -11,8 +11,7 @@ from sys import argv
 def latest_commits(repos, username):
     url = "https://api.github.com/repos/{}/{}/commits".format(
           repos, username)
-    head_req = {"Accept": "application/vnd.github+json",
-                "X-GitHub-Api-Version": "2022-11-28"}
+    head_req = {"Accept": "application/vnd.github+json"}
     resp = req.get(url, headers=head_req)
     json_data = resp.json()
     i = 0
