@@ -18,7 +18,7 @@ def latest_commits(repos, username):
     i = 0
     while(i < 10):
 
-        print(json_data[i].get("sha") + ":", end="")
+        print(json_data[i].get("sha") + ": ", end="")
         print(json_data[i].get("commit").get("author").get("name"))
         i = i + 1
 
