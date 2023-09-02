@@ -10,12 +10,12 @@ from sys import argv
 
 def search_user():
     url = "http://0.0.0.0:5000/search_user"
-    arg = argv[1] if argv[1] else ""
+    arg = argv[1] if len(argv) > 1 else ""
     resp = requests.post(url, data={'q': arg})
     try:
         json_data = resp.json()
-        if json_data and isinstance(json_data, list):
-            print("[{}] {}".format(ele['id'], ele['name']))
+        if json_data:
+            print("[{}] {}".format(json_data['id'], json_data['name']))
         else:
             print("No result")
     except ValueError as err:
