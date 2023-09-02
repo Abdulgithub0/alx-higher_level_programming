@@ -14,8 +14,7 @@ def search_user(arg=""):
     try:
         json_data = resp.json()
         if json_data and isinstance(json_data, list):
-            for ele in json_data:
-                print("[{}] {}".format(ele.get('id'), ele.get('name')))
+            print("[{}] {}".format(ele['id'], ele['name']))
         else:
             print("No result")
     except ValueError as err:
