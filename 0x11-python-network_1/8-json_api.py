@@ -10,7 +10,7 @@ from sys import argv
 
 def search_user(arg=""):
     url = "http://0.0.0.0:5000/search_user"
-    resp = requests.post(url, params={'q': arg})
+    resp = requests.post(url, data={'q': arg})
     try:
         json_data = resp.json()
         if json_data and isinstance(json_data, list):
