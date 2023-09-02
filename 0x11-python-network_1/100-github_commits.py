@@ -12,6 +12,7 @@ def latest_commits(repos, username):
     url = "https://api.github.com/repos/{}/{}/commits".format(
           repos, username)
     resp = req.get(url, params={"per_page": 10})
+    resp.raise_for_status()
     json_data = resp.json()
     if (json_data):
         for data in json_data:
