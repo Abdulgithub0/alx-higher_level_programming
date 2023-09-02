@@ -19,4 +19,4 @@ def find_peak(list_of_integers):
         return lst[-1]
     for i in range(1, (len_l - 1)):
         if (lst[i - 1] < lst[i] and lst[i + 1] < lst[i]):
-                return lst[i]
+            return lst[i]
