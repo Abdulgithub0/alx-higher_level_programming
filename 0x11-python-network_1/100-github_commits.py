@@ -11,15 +11,14 @@ from sys import argv
 def latest_commits(repos, username):
     url = "https://api.github.com/repos/{}/{}/commits".format(
           repos, username)
-    head_req = {"Accept": "application/vnd.github+json"}
-    resp = req.get(url, headers=head_req)
-    json_data = resp.json()
-    i = 0
-    while(i < 10):
-        s = json_data[i].get("sha", None)
-        name = json_data[i].get("commit").get("author").get("name")
-        print(f"{s}: {name}")
-        i += 1
-
+    resp = req.get(url, params={"per_page": 10})
+    try:
+        json_data = resp.json()
+        for data in json_data:
+            s = data["sha"]
+            name = data.get("commit").get("author").get("name")
+            print(f"{s}: {name}")
+    except KeyError as e:
+        print(e)
 if __name__ == "__main__":
     latest_commits(argv[1], argv[2])
