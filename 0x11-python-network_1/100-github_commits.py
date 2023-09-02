@@ -17,11 +17,10 @@ def latest_commits(repos, username):
     json_data = resp.json()
     i = 0
     while(i < 10):
-
-        print(json_data[i].get("sha") + ": ", end="")
-        print(json_data[i].get("commit").get("author").get("name"))
-        i = i + 1
-
+        s = json_data[i].get("sha")
+        name = json_data[i].get("commit").get("author").get("name"))
+        print(f"s: name")
+        i += 1
 
 if __name__ == "__main__":
     latest_commits(argv[1], argv[2])
