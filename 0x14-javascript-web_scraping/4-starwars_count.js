@@ -14,9 +14,7 @@ if (process.argv.length >= 3) {
       const obj = JSON.parse(body);
       let cha = 0;
       for (let i = 0; i < obj.results.length; i++) {
-        for (let j = 0; j < obj.results[i].characters.length; j++) {
-	  if (obj.results[i].characters[j].endsWith('18/')) cha++;
-        }
+        for (let j = 0; j < obj.results[i].characters.length; j++) if (obj.results[i].characters[j].endsWith('18/')) cha++;
       }
       console.log(cha);
     }
