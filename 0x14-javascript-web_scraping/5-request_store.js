@@ -12,6 +12,6 @@ if (process.argv.length >= 4) {
   const url = process.argv[2];
   const filename = process.argv[3];
   req.get(url, (err, resp, body) => {
-    fs.writeFile(filename, body, 'utf-8', (error) => { });
+    if (!err) fs.writeFile(filename, body, 'utf-8', (error) => { if (error) console.error(error); });
   });
 }
